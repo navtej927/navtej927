@@ -141,21 +141,6 @@ when I started.
 
 ---
 
-<!-- ───── CURRENT FOCUS ───── -->
-
-<details>
-<summary><strong>🎯 What I'm Currently Working On</strong></summary>
-<br/>
-
-- 📖 Building a structured **system design study system** (distributed systems, data modelling, building blocks)
-- 🏗️ Designing **data modelling guides** — SQL vs NoSQL, access-pattern-first approach
-- 🎤 Preparing for **Staff/Principal-level** system design interviews
-- 🛠️ Contributing to platform architecture patterns at scale
-
-</details>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer" width="100%" />
