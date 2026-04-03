@@ -131,27 +131,6 @@ when I started.
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
-
-<!-- ───── GITHUB STATS ───── -->
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=navtej927&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&ring_color=58A6FF&title_color=58A6FF&icon_color=58A6FF" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=navtej927&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navtej927&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&langs_count=8" />
-
-</div>
-
----
-
 <!-- ───── TROPHY ───── -->
 
 <div align="center">
