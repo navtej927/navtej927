@@ -141,16 +141,6 @@ when I started.
 
 ---
 
-<!-- ───── ACTIVITY GRAPH ───── -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navtej927&theme=github-compact&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=58A6FF" />
-
-</div>
-
----
-
 <!-- ───── SNAKE ANIMATION ───── -->
 <!-- Requires GitHub Action — see .github/workflows/snake.yml -->
 
